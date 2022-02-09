@@ -7,6 +7,10 @@ Register ödevi geliştirilecek (thymeleaf kullanılacak ve bootstrap ile iyile�
 
 -------------------------------------------
 
+SOLID Ödeviyle İlgili PDF'i Code'un içerisinde bulabilirsiniz.
+
+-------------------------------------------
+
 User Message Form Template (Register Ödevi)
 
 1) Mesaj Ekleme Formu
